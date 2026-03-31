@@ -1,0 +1,2 @@
+background,forest,vegetation,barren,water,building,vehicle,basketball court,agriculture,urban,rangeland,cropland
+road

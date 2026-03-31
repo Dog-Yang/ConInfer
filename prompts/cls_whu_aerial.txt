@@ -1,0 +1,2 @@
+forest,vegetation,bareland,river,road,vehicle
+building

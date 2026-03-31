@@ -1,0 +1,2 @@
+background,forest,vegetation,bareland,river,paved road
+building

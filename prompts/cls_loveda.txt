@@ -1,0 +1,7 @@
+background
+roof
+road
+river
+barren
+forest
+agricultural

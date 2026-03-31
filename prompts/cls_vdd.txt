@@ -1,0 +1,7 @@
+background,barren
+exterior
+road
+grass
+car
+roof
+water
