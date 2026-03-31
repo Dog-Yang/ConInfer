@@ -5,12 +5,13 @@
 
 ---
 
+## 📄 Overview
 
 <div align="center">
 
 <!-- <h1>ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation</h1> -->
 
-<img src="frame.jpg" width="100%"/>
+<img src="frame.jpg" width="80%"/>
 
 </div>
 
