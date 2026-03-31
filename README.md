@@ -40,7 +40,7 @@ We include the following dataset configurations in this repo:
 Please refer to [dataset_prepare.md](https://github.com/likyoo/SegEarth-OV/blob/main/dataset_prepare.md) for dataset preparation.
 
 
-## Model evaluation
+## 🦖 evaluation
 Multi-GPU:
 ```
 bash ./dist_test.sh ./config/cfg_DATASET.py
