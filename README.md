@@ -1,5 +1,4 @@
-[![CVPR 2026 Accepted (Findings)](https://img.shields.io/badge/CVPR-2026%20Accepted-brightgreen)](http://arxiv.org/abs/2603.29271)  
-[![arXiv](https://img.shields.io/badge/arXiv-2404.08181-b31b1b.svg)](http://arxiv.org/abs/2603.29271)
+[![CVPR 2026 Accepted (Findings)](https://img.shields.io/badge/CVPR-2026%20Accepted-brightgreen)](http://arxiv.org/abs/2603.29271)  [![arXiv](https://img.shields.io/badge/arXiv-2404.08181-b31b1b.svg)](http://arxiv.org/abs/2603.29271)
 
 > This repository contains the official implementation of the CVPR 2026 Findings paper:  
 > **"ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation"**  
