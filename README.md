@@ -13,7 +13,7 @@
 
 <!-- <h1>ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation</h1> -->
 
-<img src="frame.jpg" width="80%"/>
+<img src="frame.jpg" width="85%"/>
 
 </div>
 
